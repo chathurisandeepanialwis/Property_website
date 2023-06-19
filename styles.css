@@ -1,0 +1,58 @@
+.carousel-inner .carousel-item.active .d-block.mx-auto {
+}
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(132,121,122,1.00) 0%,rgba(236,225,225,1.00) 44.15%,rgba(9,8,8,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(132,121,122,1.00) 0%,rgba(236,225,225,1.00) 44.15%,rgba(9,8,8,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(132,121,122,1.00) 0%,rgba(236,225,225,1.00) 44.15%,rgba(9,8,8,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(132,121,122,1.00) 0%,rgba(236,225,225,1.00) 44.15%,rgba(9,8,8,1.00) 100.00%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(120,117,117,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(120,117,117,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 0%,rgba(120,117,117,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 0.00%,rgba(120,117,117,1.00) 100.00%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: rgba(221,134,4,1.00);
+
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: rgba(0,0,0,1.00);
+    color: rgba(252,138,0,1.00);
+}
+#accordion1 .card #headingOne1 {
+    color: rgba(0,0,0,1.00);
+    background-color: rgba(0,0,0,1.00);
+}
+#accordion1 .card #headingTwo1 {
+    background-color: rgba(0,0,0,1.00);
+}
+#accordion1 .card #headingThree1 {
+    background-color: rgba(0,0,0,1.00);
+}
+#headingOne1 .mb-0 a {
+    color: rgba(237,148,1,1.00);
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: rgba(231,152,8,1.00);
+}
+#headingThree1 .mb-0 .collapsed {
+    /* [disabled]color: rgba(255,126,0,1.00); */
+
+}
+#headingThree1 .mb-0 .collapsed {
+    color: rgba(250,135,9,1.00);
+}
+.container-fluid .container footer {
+    color: rgba(0,0,0,1.00);
+}
+footer .row .col-lg-6 {
+    color: rgba(247,145,10,1.00);
+}
+footer .row .col-lg-6 {
+    color: rgba(247,145,10,1.00);
+}
+.navbar.navbar-expand-lg.navbar-light.bg-light .navbar-toggler .navbar-toggler-icon {
+    color: rgba(237,97,5,1.00);
+    background-color: rgba(238,119,41,1.00);
+}
